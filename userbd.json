@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "c8e7",
+      "username": "jao@dev.com",
+      "password": "123",
+      "categoryId": 2,
+      "createdAt": "2025-04-28T19:11:44.932Z"
+    },
+    {
+      "id": "28c1",
+      "username": "jao@dev.com",
+      "password": "123",
+      "categoryId": 1,
+      "createdAt": "2025-05-21T19:58:50.930Z"
+    },
+    {
+      "id": "68c7",
+      "username": "jao@dev.com",
+      "password": "123",
+      "categoryId": 1,
+      "createdAt": "2025-06-02T14:40:47.706Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Professor"
+    },
+    {
+      "id": "2",
+      "name": "Aluno"
+    }
+  ]
+}

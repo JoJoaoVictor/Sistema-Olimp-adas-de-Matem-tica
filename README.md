@@ -42,5 +42,3 @@ Plataforma web para montagem de provas de matemática com questões categorizada
     ``````
       npm run dev
     ``````
-
-  
