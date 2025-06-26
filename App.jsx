@@ -54,11 +54,7 @@ function App() {
           <Route path="/projetos/:id"  element={<Private Item={Projetos}/>} />
           <Route path="/montarProva"  element={<Private Item={MontarProva}/>} />
           <Route path="/Prova"  element={<Private Item={Prova}/>} />
- 
-      
-
-     
-
+          
           {/* Página padrão para rotas não encontradas */}
           <Route path="/*" element={<Login/>} />
         </Routes>
